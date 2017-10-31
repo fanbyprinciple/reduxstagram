@@ -16,7 +16,8 @@ Run `npm build` to create a distro folder and a bundle.js file.
 
 ## Special Thanks to
 
-**[Wes Bos](http://wesbos.com/)**, the guy who creates awesome web-development tutorials.  
+**[Ashwin](http://github.com/fanbyprinciple)**, The man who didn't try this.
+**[Wes Bos](http://wesbos.com/)**, the guy who creates awesome web-development tutorials.  *
 You can take a look at his tutorials **[here](http://wesbos.com/courses/)**.
 
 ## Bugs and Issues
